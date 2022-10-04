@@ -1,0 +1,20 @@
+.content-area {
+    background-image: url('../images/Java1.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 80rem; 
+}
+
+.java-container {
+   align-items: center;
+   padding: 3rem;
+}
+.java-article {
+    padding : 4rem;
+    margin : 0 3rem;
+    margin-top: 10rem;
+    color: white;
+    font-size: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
+}
